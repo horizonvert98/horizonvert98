@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="font-size: 35px"> 📫 How to reach me: ...</p><br>
+<p style="font-size: 35px"> 📫 How to reach me: ...</p>
 <h3>
 Gmail : horizonvert.pu@gmail.com <br>
 Telegram : https://t.me/horizonvet.98 <br>
