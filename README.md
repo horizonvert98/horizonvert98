@@ -22,7 +22,7 @@ Skype : live:.cid.f1831dd7cf4f5339 <br>
 Discord : Ainas#7593</h3> <br>
 <pre>
 I am a full-stack developer with 7 years of experience.
-I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.
+I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.</pre>
 Skills:
  :star: Mobile App Development: Swift, Objective-C, Java, Kotlin, SwiftUI
  :star: Frontend : React, Vue, TypeScript, React-native, Bootstrap, JQuery, Flutter
@@ -44,6 +44,7 @@ Skills:
 	:small_blue_diamond:Web scraping & automation : Python (Beautiful soup, Scrapy), PHP (Guzzle, cURL), Node (Puppeteer), Nightware
 	:small_blue_diamond:Data manipulation : machine learning, deep learning
 	:small_blue_diamond:Data visualization : Chart.js, Python Pandas
+<pre>
 If I can be of assistance, please don't hesitate to contact me.
 Thank you.
 </pre>
