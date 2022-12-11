@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: ...
+Gmail : horizonvert.pu@gmail.com
+Telegram : https://t.me/horizonvet.98
+Skype : live:.cid.f1831dd7cf4f5339
+Discord : Ainas#7593
+
 I am a full-stack developer with 7 years of experience.
 I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.
 Skills:
