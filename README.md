@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ...<br>
+<p style="font-size: 35px"> 📫 How to reach me: ...</p><br>
+<h3>
 Gmail : horizonvert.pu@gmail.com <br>
 Telegram : https://t.me/horizonvet.98 <br>
 Skype : live:.cid.f1831dd7cf4f5339 <br>
-Discord : Ainas#7593 <br>
+Discord : Ainas#7593</h3> <br>
 <pre>
 I am a full-stack developer with 7 years of experience.
 I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.
