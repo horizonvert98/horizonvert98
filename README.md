@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ...
-Gmail : horizonvert.pu@gmail.com
-Telegram : https://t.me/horizonvet.98
-Skype : live:.cid.f1831dd7cf4f5339
-Discord : Ainas#7593
-
+- 📫 How to reach me: ...<br>
+Gmail : horizonvert.pu@gmail.com <br>
+Telegram : https://t.me/horizonvet.98 <br>
+Skype : live:.cid.f1831dd7cf4f5339 <br>
+Discord : Ainas#7593 <br>
+<pre>
 I am a full-stack developer with 7 years of experience.
 I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.
 Skills:
@@ -45,3 +45,4 @@ Skills:
 	:small_blue_diamond:Data visualization : Chart.js, Python Pandas
 If I can be of assistance, please don't hesitate to contact me.
 Thank you.
+</pre>
