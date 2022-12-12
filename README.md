@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p style="font-size: 35px"> 📫 How to reach me: ...</p>
 <h3>
 Gmail : horizonvert.pu@gmail.com <br>
-Telegram : https://t.me/horizonvet98 <br>
+Telegram : https://t.me/horizonvert98 <br>
 Skype : live:.cid.f1831dd7cf4f5339 <br>
 
 <pre>
