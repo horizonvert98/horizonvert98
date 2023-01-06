@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 <p style="font-size: 35px"> 📫 How to reach me: ...</p>
 <h3>
-Gmail : horizonvert.pu@gmail.com <br>
-Telegram : https://t.me/horizonvert1027 <br>
-Skype : live:.cid.f1831dd7cf4f5339 <br>
-
 <pre>
 I am a full-stack developer with 5 years of experience.
 I have developed dozens of large, custom Web&Mobile applications focusing on a wide-range of industries including government agencies, start-ups, eCommerce, medical, education, real estate solutions and worker safety.</pre>
